@@ -1,0 +1,49 @@
+{
+  "egypt": [
+    {
+      "name": "القرآن الكريم",
+      "url": "https://stream.radiojar.com/8s5u5tpdtwzuv",
+      "type": "stream"
+    },
+    {
+      "name": "هنا القاهرة",
+      "url": "https://www.maspero.eg/stream/10",
+      "type": "web"
+    },
+    {
+      "name": "Nogoum FM",
+      "url": "https://n0a.radiojar.com/7w4rfe7a3v8uv",
+      "type": "stream"
+    }
+    {
+      "name": "Radio 9090",
+      "url": "https://stream.radiojar.com/8s5u5tpdtwzuv",
+      "type": "stream"
+    }
+    {
+      "name": "Mega FM",
+      "url": "https://radio.streams.ovh/stream/megafm",
+      "type": "stream"
+    }
+    {
+      "name": "Nagham FM",
+      "url": "https://n0a.radiojar.com/4wqre23fytzuv",
+      "type": "stream"
+    }
+    {
+      "name": "Nile FM",
+      "url": "https://nilefm.ice.infomaniak.ch/nilefm-128.mp3",
+      "type": "stream"
+    }
+    {
+      "name": "El Gouna Radio",
+      "url": "https://elgounaradio.ice.infomaniak.ch/elgounaradio-128.mp3",
+      "type": "stream"
+    }
+    {
+      "name": "الشباب والرياضة",
+      "url": "http://82.137.200.85:8000/;stream.mp3",
+      "type": "stream"
+    }
+  ]
+}

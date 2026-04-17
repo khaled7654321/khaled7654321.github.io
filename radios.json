@@ -36,11 +36,6 @@
       "type": "stream"
     },
     {
-      "name": "El Gouna Radio",
-      "url": "https://elgounaradio.ice.infomaniak.ch/elgounaradio-128.mp3",
-      "type": "stream"
-    },
-    {
       "name": "الشباب والرياضة",
       "url": "http://82.137.200.85:8000/;stream.mp3",
       "type": "stream"

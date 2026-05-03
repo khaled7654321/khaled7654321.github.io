@@ -1,14 +1,18 @@
 {
   "0": [
-    "https://archive.org"
+    "https://server8.mp3quran.net/afs/",
+    "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/"
   ],
   "1": [
-    "https://archive.org"
+    "https://server7.mp3quran.net/basit/",
+    "https://download.quranicaudio.com/quran/abdul_basit_murattal/"
   ],
   "2": [
-    "https://archive.org"
+    "https://server10.mp3quran.net/minsh/",
+    "https://download.quranicaudio.com/quran/muhammad_siddiq_al_minshawi/"
   ],
   "3": [
-    "https://archive.org"
+    "https://server12.mp3quran.net/maher/",
+    "https://download.quranicaudio.com/quran/maher_almuaiqly/"
   ]
 }

@@ -1,15 +1,14 @@
 {
   "0": [
-    "https://server8.mp3quran.net/afs/",
-    "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/"
+    "https://archive.org"
   ],
   "1": [
-    "https://server7.mp3quran.net/basit/"
+    "https://archive.org"
   ],
   "2": [
-    "https://server10.mp3quran.net/minsh/"
+    "https://archive.org"
   ],
   "3": [
-    "https://server12.mp3quran.net/maher/"
+    "https://archive.org"
   ]
 }
